@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 350px;
+}
+
+#Logo {
+    width: 800px;
+    height: 563px;
+}
+
+.cars {
+    display: inline;
+}
+
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
